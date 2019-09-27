@@ -75,7 +75,7 @@
 ;Chameleon
 ;Centaurus
 ;Cepheus
-;Compass
+;Circinus
 ;Clock
 ;Bowl
 ;Shield

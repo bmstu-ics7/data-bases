@@ -24,7 +24,6 @@
 ;Menelaus Of Alexandria;1
 ;Zhang Heng;1
 ;Liu Hong;2
-;Menelaus Of Alexandria;2
 ;Claudius Ptolemy;2
 ;Xu Yue;3
 ;Hypatia;4
