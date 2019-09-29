@@ -124,7 +124,8 @@ go
 bulk insert Stars.Constellations from '\Constellations.txt'
 with (
     fieldterminator = ';',
-    rowterminator = '0x0a'
+    rowterminator = '0x0a',
+    check_constraints
     );
 
 go
@@ -132,7 +133,8 @@ go
 bulk insert Stars.Scientists from '\Scientists.txt'
 with (
     fieldterminator = ';',
-    rowterminator = '0x0a'
+    rowterminator = '0x0a',
+    check_constraints
     );
 
 go
@@ -140,7 +142,8 @@ go
 bulk insert Stars.Countries from '\Countries.txt'
 with (
     fieldterminator = ';',
-    rowterminator = '0x0a'
+    rowterminator = '0x0a',
+    check_constraints
     );
 
 go
@@ -148,7 +151,8 @@ go
 bulk insert Stars.Stars from '\Stars.txt'
 with (
     fieldterminator = ';',
-    rowterminator = '0x0a'
+    rowterminator = '0x0a',
+    check_constraints
     );
 
 go
@@ -156,7 +160,8 @@ go
 bulk insert Stars.ExtraInfo from '\ExtraInfo.txt'
 with (
     fieldterminator = ';',
-    rowterminator = '0x0a'
+    rowterminator = '0x0a',
+    check_constraints
     );
 
 go
@@ -164,5 +169,6 @@ go
 bulk insert Stars.CountriesStars from '\CountriesStars.txt'
 with (
     fieldterminator = ';',
-    rowterminator = '0x0a'
+    rowterminator = '0x0a',
+    check_constraints
     );
