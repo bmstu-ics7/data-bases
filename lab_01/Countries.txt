@@ -1,0 +1,239 @@
+;Australia
+;Austria
+;Azerbaijan
+;Albania
+;Algeria
+;Anguilla
+;Angola
+;Andorra
+;Antarctica
+;Antigua.Barb
+;Antilles
+;Aomen Macau
+;Argentina
+;Armenia
+;Aruba
+;Afghanistan
+;Bahamas
+;Bangladesh
+;Barbados
+;Bahrain
+;Belize
+;Belarus
+;Belgium
+;Benin
+;Bermuda
+;Bulgaria
+;Bolivia
+;Botswana
+;Brazil
+;Brit. Rubbed. Ind. OK
+;Brunei
+;Bouvet
+;Burkina Faso
+;Burundi
+;Bhutan
+;Vanuatu
+;Vatican
+;UK
+;Hungary
+;Venezuela
+;Virgin. Islands USA
+;Virgin. Brit Islands.
+;The East. Samoa. The United States
+;East Timor
+;Vietnam
+;Gabon
+;Haiti
+;Guyana
+;Gambia
+;Ghana
+;Guadeloupe
+;Guatemala
+;Guiana
+;Guinea
+;Guinea-Bissau
+;Germany
+;Gibraltar
+;Honduras
+;Grenada
+;Greenland
+;Greece
+;Georgia
+;GUAM
+;Denmark
+;Djibouti
+;Johnston Atoll
+;Dominic
+;Dominicans. Resp.
+;Egypt
+;Zaire
+;Zambia
+;Western Sahara
+;Western Samoa
+;Zimbabwe
+;Israel
+;India
+;Indonesia
+;Jordan
+;Iraq
+;Iran
+;Ireland
+;Iceland
+;Spain
+;Italy
+;Yemen
+;Cape Verde
+;Kazakhstan
+;Caiman
+;Cambodia
+;Cameroon
+;Canada
+;Qatar
+;Kenya
+;Cyprus
+;Kiribati
+;China
+;Coconut Islands
+;Colombia
+;Comoros
+;Congo
+;Korea North Korea
+;Korea Rep.
+;Costa Rica
+;Ivory Coast
+;Cuba
+;Kuwait
+;Kyrgyzstan
+;Laos
+;Latvia
+;Lithuania
+;Lesotho
+;Liberia
+;Lebanon
+;Libya
+;Liechtenstein
+;Luxembourg
+;Mauritius
+;Mauritania
+;Madagascar
+;Malawi
+;Malaysia
+;Mali
+;Small. Tikhook. Islands
+;Maldives
+;Malta
+;Mariana Islands
+;Morocco
+;Martinique
+;Marshall Islands
+;Mexico
+;Micronesia
+;Mozambique
+;Moldova
+;Monaco
+;Mongolia
+;Montserrat
+;Myanmar
+;Namibia
+;Nauru
+;Nepal
+;Niger
+;Nigeria
+;Netherlands
+;Nicaragua
+;Niue
+;New Zealand
+;New. Caledonia
+;Norway
+;Norfolk
+;Obed. Arab. Emirate
+;Oman
+;cook Islands
+;midway Islands
+;O-In Maine
+;About Christmas
+;St. Helena
+;In The Wake
+;Pakistan
+;Palau
+;Panama
+;Papua New Guinea
+;Paraguay
+;Peru
+;Pitcairn
+;Poland
+;Portugal
+;Puerto Rico
+;Divided Zone
+;Reunion
+;Russia
+;Rwanda
+;Romania
+;El Salvador
+;San Marino
+;Sao Tome And Prince.
+;Saudi Arabia
+;Swaziland
+;Seychelles
+;S.-Pierre And Miquelon
+;Senegal
+;S. Vincent. Grenadas.
+;Saint Kitts And Nevis
+;Saint Lucia
+;Singapore
+;Syria
+;Slovakia
+;Solomon Islands
+;Somalia
+;Sudan
+;Suriname
+;Sierra Leone
+;USA
+;Hong Kong Hong Kong
+;Tajikistan
+;Thailand
+;Taiwan
+;Tanzania
+;Turks And Caicos
+;That
+;Tokelau Union
+;Tonga
+;Trinidad And Tobago
+;Tuvalu
+;Tunisia
+;Turkmenistan
+;Turkey
+;Uganda
+;Uzbekistan
+;Ukraine
+;Wallis And Futuna
+;Uruguay
+;Faroe Islands
+;Fiji
+;Philippines
+;Finland
+;Falkland Islands
+;France
+;FR. Polynesia
+;FR. Southern Territory.
+;Heard And McDonald
+;Center. Adf. The Republican
+;Chad
+;Czech Republic
+;Chile
+;Switzerland
+;Sweden
+;Svalbard And Jan-Maye
+;Sri Lanka
+;Ecuador
+;Equator. Guinea
+;Estonia
+;Ethiopia
+;Yugoslavia
+;South AFR. Respub.
+;Jamaica
+;Japan
+;Serbia
+;Croatia
+;Bosnia And Herzegovina
