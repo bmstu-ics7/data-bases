@@ -121,7 +121,7 @@ alter table Stars.CountriesStars add
 
 go
 
-bulk insert Stars.Constellations from '\Constellations.txt'
+bulk insert Stars.Constellations from '\Constellations.csv'
 with(
     fieldterminator = ';',
     rowterminator = '0x0a',
@@ -130,7 +130,7 @@ with(
 
 go
 
-bulk insert Stars.Scientists from '\Scientists.txt'
+bulk insert Stars.Scientists from '\Scientists.csv'
 with(
     fieldterminator = ';',
     rowterminator = '0x0a',
@@ -139,7 +139,7 @@ with(
 
 go
 
-bulk insert Stars.Countries from '\Countries.txt'
+bulk insert Stars.Countries from '\Countries.csv'
 with(
     fieldterminator = ';',
     rowterminator = '0x0a',
@@ -148,7 +148,7 @@ with(
 
 go
 
-bulk insert Stars.Stars from '\Stars.txt'
+bulk insert Stars.Stars from '\Stars.csv'
 with(
     fieldterminator = ';',
     rowterminator = '0x0a',
@@ -157,7 +157,7 @@ with(
 
 go
 
-bulk insert Stars.ExtraInfo from '\ExtraInfo.txt'
+bulk insert Stars.ExtraInfo from '\ExtraInfo.csv'
 with(
     fieldterminator = ';',
     rowterminator = '0x0a',
@@ -166,7 +166,7 @@ with(
 
 go
 
-bulk insert Stars.CountriesStars from '\CountriesStars.txt'
+bulk insert Stars.CountriesStars from '\CountriesStars.csv'
 with(
     fieldterminator = ';',
     rowterminator = '0x0a',
