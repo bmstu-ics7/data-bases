@@ -6,12 +6,8 @@ use Multiplication
 
 go
 
-drop table Numbers
-
-go
-
 create table Numbers (
-    id int not null
+    id int
 )
 
 go
@@ -19,7 +15,8 @@ go
 insert into Numbers values
     (5),
     (-1),
-    (8)
+    (8),
+    (null)
 
 go
 
@@ -28,3 +25,15 @@ select exp(sum(log(iif(id > 0, id, iif(id <> 0, -id, 1))))) *
         power(-1, sum(iif(id < 0, 1, 0)))
             as result
 from Numbers
+
+go
+
+drop table Numbers
+
+go
+
+use master
+
+go
+
+drop database Multiplication
