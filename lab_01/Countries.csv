@@ -6,7 +6,7 @@
 ;Anguilla
 ;Angola
 ;Andorra
-;Antarctica
+;Antarctic
 ;Antigua.Barb
 ;Antilles
 ;Aomen Macau
@@ -22,12 +22,12 @@
 ;Belarus
 ;Belgium
 ;Benin
-;Bermuda
+;The Bermuda Islands
 ;Bulgaria
 ;Bolivia
 ;Botswana
 ;Brazil
-;Brit. Rubbed. Ind. OK
+;Smoothfaced. Rubbed. In Ind.
 ;Brunei
 ;Bouvet
 ;Burkina Faso
@@ -35,12 +35,12 @@
 ;Bhutan
 ;Vanuatu
 ;Vatican
-;UK
+;Britain
 ;Hungary
 ;Venezuela
 ;Virgin. Islands USA
-;Virgin. Brit Islands.
-;The East. Samoa. The United States
+;Virgin. Islands Brit.
+;Eastern. Samoa. USA
 ;East Timor
 ;Vietnam
 ;Gabon
@@ -52,7 +52,7 @@
 ;Guatemala
 ;Guiana
 ;Guinea
-;Guinea-Bissau
+;Guinea Bissau
 ;Germany
 ;Gibraltar
 ;Honduras
@@ -60,11 +60,11 @@
 ;Greenland
 ;Greece
 ;Georgia
-;GUAM
+;Guam
 ;Denmark
 ;Djibouti
 ;Johnston Atoll
-;Dominic
+;Dominica
 ;Dominicans. Resp.
 ;Egypt
 ;Zaire
@@ -85,7 +85,7 @@
 ;Yemen
 ;Cape Verde
 ;Kazakhstan
-;Caiman
+;Cayman
 ;Cambodia
 ;Cameroon
 ;Canada
@@ -94,14 +94,14 @@
 ;Cyprus
 ;Kiribati
 ;China
-;Coconut Islands
+;Cocos Islands
 ;Colombia
 ;Comoros
 ;Congo
-;Korea North Korea
+;Korea DPRK
 ;Korea Rep.
 ;Costa Rica
-;Ivory Coast
+;Cote Divoire
 ;Cuba
 ;Kuwait
 ;Kyrgyzstan
@@ -147,14 +147,14 @@
 ;New. Caledonia
 ;Norway
 ;Norfolk
-;Obed. Arab. Emirate
+;OAE
 ;Oman
-;cook Islands
-;midway Islands
-;O-In Maine
-;About Christmas
-;St. Helena
-;In The Wake
+;Islands Cook
+;Islands Midway
+;Island Man
+;Island Christmas
+;Island St. Helena
+;Island Wake
 ;Pakistan
 ;Palau
 ;Panama
@@ -164,13 +164,13 @@
 ;Pitcairn
 ;Poland
 ;Portugal
-;Puerto Rico
-;Divided Zone
+;Puerto rico
+;Shared Zone
 ;Reunion
 ;Russia
 ;Rwanda
 ;Romania
-;El Salvador
+;Salvador
 ;San Marino
 ;Sao Tome And Prince.
 ;Saudi Arabia
@@ -178,7 +178,7 @@
 ;Seychelles
 ;S.-Pierre And Miquelon
 ;Senegal
-;S. Vincent. Grenadas.
+;S. Vincent. Grenada's.
 ;Saint Kitts And Nevis
 ;Saint Lucia
 ;Singapore
@@ -190,13 +190,13 @@
 ;Suriname
 ;Sierra Leone
 ;USA
-;Hong Kong Hong Kong
+;Hong Kong
 ;Tajikistan
 ;Thailand
 ;Taiwan
 ;Tanzania
 ;Turks And Caicos
-;That
+;Togo
 ;Tokelau Union
 ;Tonga
 ;Trinidad And Tobago
@@ -215,16 +215,16 @@
 ;Finland
 ;Falkland Islands
 ;France
-;FR. Polynesia
-;FR. Southern Territory.
+;Fra. Polynesia
+;Fra. Southern Territory.
 ;Heard And McDonald
-;Center. Adf. The Republican
+;Center. Adf. Republican
 ;Chad
 ;Czech Republic
 ;Chile
 ;Switzerland
 ;Sweden
-;Svalbard And Jan-Maye
+;Svalbard And Jan Maye
 ;Sri Lanka
 ;Ecuador
 ;Equator. Guinea
@@ -236,4 +236,4 @@
 ;Japan
 ;Serbia
 ;Croatia
-;Bosnia And Herzegovina
+;Bosnia and Herzegovina
