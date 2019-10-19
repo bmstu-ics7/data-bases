@@ -13,7 +13,7 @@ go
 -- Созвездия
 create table Stars.Constellations(
     ConstellationId int identity(1,1)  not null,
-    CName           varchar(100)       not null
+    CName           varchar(40)       not null
 )
 
 go
@@ -21,7 +21,7 @@ go
 -- Ученые
 create table Stars.Scientists(
     ScientistId     int identity(1,1) not null,
-    SName           varchar(100)      not null,
+    SName           varchar(40)      not null,
     Century         int               not null
 )
 
