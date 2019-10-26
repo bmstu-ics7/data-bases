@@ -144,6 +144,7 @@ begin
         set @Count = @Count + 1
     end
     close cur
+    deallocate cur
 end
 
 go
@@ -175,13 +176,13 @@ on Stars.Stars
 after insert
 as
 select *
-from Stars.Stars
+from inserted
 
 go
 
 insert Stars.Stars(Letter, SName, RightAscension, Declination, SeeStarValue, Color, ConstellationId)
 values
-    ('asd', 'asd', 12, 12, 2, 'Red', 30)
+    ('asdsadasd', 'sadasdasd', 12, 12, 2, 'Red', 30)
 
 go
 
@@ -192,7 +193,7 @@ on Stars.Stars
 instead of delete
 as
 select *
-from Stars.Stars
+from deleted
 
 go
 
