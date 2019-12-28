@@ -1,0 +1,7 @@
+<!ELEMENT Stars (C+)>
+
+<!ELEMENT Scientists (#PCDATA)>
+
+<!ATTLIST Scientists
+    SName   CDATA #REQUIRED
+    Century CDATA #REQUIRED>
